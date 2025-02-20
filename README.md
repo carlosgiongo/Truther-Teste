@@ -6,6 +6,9 @@ Este repositório segue a demanda de teste prático do seguinte [link](https://l
 O teste foi realizado usando Nestjs com Typescript, usando postgresql como base de dados e Prisma como ORM
 
 
+
+
+
 ## Stack utilizada
 
 **Back-end:** Nest (node v18.19.1)
@@ -126,3 +129,13 @@ As seguintes funcionalidades faltaram a serem desenvolvidas:
 - Autenticação JWT
 - CRON para get de moedas (no momento, acontecem no GET da moeda especifica)
 - Testes automatizados
+
+## Instalação
+
+Instale o projeto com os seguintes comandos
+
+```bash
+  npm run build
+  npm start
+```
+    
