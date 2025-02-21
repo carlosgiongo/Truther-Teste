@@ -135,6 +135,8 @@ As seguintes funcionalidades faltaram a serem desenvolvidas:
 Instale o projeto com os seguintes comandos
 
 ```bash
+  npm i
+  npx prisma migrate deploy
   npm run build
   npm start
 ```
